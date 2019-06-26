@@ -80,7 +80,7 @@ export const CenteredCardLayout = ({ children, title, ...props }) => (
         `}>
         By <a href="https://twitter.com/james_k_nelson">@james_k_nelson</a>.{' '}
         <br />
-        Landing page{' '}
+        Page{' '}
         <a href="https://github.com/jamesknelson/reactjs.tokyo">
           source on GitHub.
         </a>

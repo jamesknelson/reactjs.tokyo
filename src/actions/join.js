@@ -7,7 +7,7 @@ const enquire = functions.httpsCallable('enquire')
 
 const emailErrorMessages = {
   required: 'Please enter your email, so we know how to contact you.',
-  invalid: 'That email looks invalid - please check it and try again.',
+  invalid: 'Please enter your email, so we know how to contact you.',
 }
 
 export function validate(params) {

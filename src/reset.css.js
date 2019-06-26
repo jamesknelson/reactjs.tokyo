@@ -37,5 +37,6 @@ export default createGlobalStyle`
   body, #root {
     height: 100%;
     min-height: 100%;
+    padding-top: 1px;
   }
 `
